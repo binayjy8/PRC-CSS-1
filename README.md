@@ -1,1 +1,1 @@
-# PRC-CSS-1 this is the classi
+# PRC-CSS-1 this is the class
